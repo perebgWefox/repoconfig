@@ -6,4 +6,4 @@ spring:
 
 employee:
   description:
-    mandatory: false
+    mandatory: true
